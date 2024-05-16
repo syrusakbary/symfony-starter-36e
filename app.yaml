@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: syrusakbary-symfony-starter-36e
+owner: syrusakbary
+package: .
